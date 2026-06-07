@@ -65,7 +65,7 @@ useEffect(() => {
       <p>LinkedIn</p> </a>
     </div>
   <div className="icon-card">
-      <a href = "/PrabjotResume.pdf"  target="_blank" rel="noopener noreferrer">
+      <a href = {`${import.meta.env.BASE_URL}PrabjotResume.pdf`}  target="_blank" rel="noopener noreferrer">
       <img src={ResumeImg} alt="Resume" className="link-icon" /> 
       <p>My Resume</p> </a>
       
