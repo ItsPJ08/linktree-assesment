@@ -12,7 +12,7 @@ Includes Profile picture and a small bio, as well as, Javascript features to mak
 - Javascript feature: time-based greeting and day/night mode + toggle button 
 ## How to run it 
 
-Simply click the link:
+Simply click the link: https://itspj08.github.io/linktree-assesment/
 
 GitHub Repo: 
 
