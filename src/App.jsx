@@ -1,7 +1,7 @@
 import { useState,useEffect } from 'react'
 import './App.css'
 import profileImg from './assets/profile.jpeg';
-import InstaImg from './assets/Instagramlogo.png';
+import InstaImg from './assets/instagramlogo.png';
 import GithubImg from './assets/githublogo.png';
 import LinkedinImg from './assets/linkedinlogo.png';
 import ResumeImg from './assets/resumelogo.png';
