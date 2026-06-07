@@ -1,0 +1,35 @@
+:root { /* Light Theme */
+  --bg: #f2f9f1;
+  --card: #ddeedf;
+  --accent: #5c715e;
+  --accent-soft: #b6cdbd;
+  --text: #654a28bc;
+  --muted: #5c715e;
+  --border: rgba(92, 113, 94, 0.25);
+  --shadow: rgba(92, 113, 94, 0.18) 0px 10px 30px;
+  --font:  system-ui, sans-serif;
+}
+
+
+.dark { /* Dark Theme */
+  --bg: #1a1a1a;
+  --card: #2a2a2a;
+  --accent: #121212;
+  --accent-soft: #333333;
+  --text: #e0e0e0;
+  --border: rgba(255, 255, 255, 0.15);
+  --shadow: rgba(0, 0, 0, 0.5) 0px 10px 30px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+  overscroll-behavior-x: none;
+}
